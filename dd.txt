@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes.
 Git remote connect
 Git remote change1
+Git remote change2
